@@ -7,10 +7,10 @@
 ## Table of contents
 * [Overview](#Overview)
 * [Technologies](#Technologies)
-* [Main components](#Main components)
-* [Key features](#Key features)
+* [Main components](#Main-components)
+* [Key features](#Key-features)
 * [Setup](#Setup)
-* [Development State](#Development State)
+* [Development State](#Development-State)
 * [License](#License)
 
 ## Overview
